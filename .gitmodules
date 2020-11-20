@@ -1,0 +1,21 @@
+[submodule "SpanBERT"]
+	path = SpanBERT
+	url = ../SpanBERT
+[submodule "HNRE"]
+	path = HNRE
+	url = ../HNRE
+[submodule "OpenNRE"]
+	path = OpenNRE
+	url = ../OpenNRE/
+[submodule "RESIDE"]
+	path = RESIDE
+	url = ../RESIDE/
+[submodule "crnn-relation-classification"]
+	path = crnn-relation-classification
+	url = ../crnn-relation-classification/
+[submodule "entity-aware-relation-classification"]
+	path = entity-aware-relation-classification
+	url = ../entity-aware-relation-classification/
+[submodule "FewRel"]
+	path = FewRel
+	url = ../FewRel/
